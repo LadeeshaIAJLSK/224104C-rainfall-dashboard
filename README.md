@@ -1,3 +1,6 @@
+
+# Live dashboard: https://224104c-rainfall-dashboard.streamlit.app
+
 # Note on AI Use
 
 I selected the project topic and dataset, designed and ran the notebook, and reviewed the results myself. I used Claude (an AI assistant) to help improve code readability, clean up the code, identify and fix coding errors, and generate some code sections when I found them difficult to implement independently. I tested the generated and modified code, checked the outputs, and wrote the analysis and interpretations in my own words.
